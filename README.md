@@ -9,3 +9,5 @@
 ## Stats:
 ![SilberGeckos Stats](https://github-readme-stats.vercel.app/api?username=silbergecko6917&show_icons=true&theme=synthwave)
 
+## Discord Profiel:
+<p align="center"><img src="https://discord.c99.nl/widget/theme-3/753974250968186901.png"><p/>
