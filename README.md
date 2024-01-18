@@ -19,4 +19,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silbergecko6917&theme=synthwave&layout=compact)
 
 ## 🔎 Discord Profiel:
-<p align="center"><img src="https://discord.c99.nl/widget/theme-3/753974250968186901.png"><p/>
+<a href="https://discord.com/users/753974250968186901"><img src="https://lanyard.cnrad.dev/api/753974250968186901"><p/>
