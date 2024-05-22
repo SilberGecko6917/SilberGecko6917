@@ -14,9 +14,8 @@
 
 
 ## 📈 Stats:
-![](https://github-readme-stats.vercel.app/api?username=silbergecko6917&show_icons=true&theme=synthwave)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=silbergecko6917&theme=synthwave&layout=compact)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🔎 Discord Profiel:
 <a href="https://discord.com/users/753974250968186901"><img src="https://lanyard.cnrad.dev/api/753974250968186901"><p/>
