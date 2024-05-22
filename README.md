@@ -15,62 +15,37 @@
 
 ## `📈` Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 205.8 kB Used in GitHub's Storage 
- > 
-> 🏆 122 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm a Night 🦉** 
+**Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-🌆 Daytime                76 commits          ██████████░░░░░░░░░░░░░░░   40.43 % 
-🌃 Evening                87 commits          ████████████░░░░░░░░░░░░░   46.28 % 
-🌙 Night                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+🌞 Morgens                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+🌆 Mittags                76 commits          ██████████░░░░░░░░░░░░░░░   40.21 % 
+🌃 Abends                 88 commits          ████████████░░░░░░░░░░░░░   46.56 % 
+🌙 Nachts                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **Ich bin am Montag am produktivsten** 
 
 ```text
-Monday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Tuesday                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Montag                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Dienstag                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Mittwoch                 33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Donnerstag               28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Freitag                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Samstag                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Sonntag                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Diese Woche habe ich meine Zeit damit verbracht** 
 
 ```text
-🕑︎ Time Zone: Europe/Berlin
+🕑︎ Zeitzone: Europe/Berlin
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+💬 Programmiersprachen: 
+Diese Woche wurde keine Aktivität gespeichert
 ```
 
-**I Mostly Code in Python** 
+**Ich code am meisten in Python** 
 
 ```text
 Python                   15 repos            ██████████████████████░░░   88.24 % 
@@ -79,12 +54,8 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/SilberGecko6917/SilberGecko6917/main/assets/bar_graph.png)
-
-
- Last Updated on 22/05/2024 17:07:38 UTC
+ Last Updated on 22/05/2024 17:09:50 UTC
 <!--END_SECTION:waka-->
 
 ## `🔎` Discord Profiel:
