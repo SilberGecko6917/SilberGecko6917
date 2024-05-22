@@ -19,3 +19,7 @@
 
 ## 🔎 Discord Profiel:
 <a href="https://discord.com/users/753974250968186901"><img src="https://lanyard.cnrad.dev/api/753974250968186901"><p/>
+
+<p align="right">
+  <img align="center" src="https://komarev.com/ghpvc/?username=silbergecko_tv&label=Profile%20views&color=0e75b6&style=flat" alt="bastigamedc"/>
+</p>
