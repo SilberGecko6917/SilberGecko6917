@@ -15,6 +15,10 @@
 
 ## `📈` Stats:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%201%20min-blue)
+
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-25.0%20thousand%20Codezeilen-blue)
+
 **Ich bin eine Nachteule 🦉** 
 
 ```text
@@ -47,6 +51,9 @@ CSS                      1 hr 38 mins        █████░░░░░░�
 HTML                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 Sqlite Database File     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+
+💻 Betriebssystem: 
+Windows                  9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **Ich code am meisten in Python** 
@@ -59,7 +66,7 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 07/06/2024 13:13:19 UTC
+ Last Updated on 08/06/2024 00:42:28 UTC
 <!--END_SECTION:waka-->
 
 ## `🔎` Discord Profiel:
