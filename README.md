@@ -15,7 +15,7 @@
 
 ## `📈` Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-25.5%20thousand%20Codezeilen-blue)
 
@@ -66,7 +66,7 @@ Java                     3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 19:00:03 UTC
+ Last Updated on 15/06/2024 00:42:11 UTC
 <!--END_SECTION:waka-->
 
 ## `🔎` Discord Profiel:
