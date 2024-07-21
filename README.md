@@ -2,7 +2,7 @@
 
 ## ` 📌 ` Über mich:
 - 📍 Ich komme aus Deutschland
-- 📝 Ich Programmiere gerne Discord Bots
+- 📝 Ich programmiere gerne Discord Bots
 
 ## ` 🛠️ ` Programmiersprachen und Tools:
 [![Skills](https://skillicons.dev/icons?i=py,html,css,mysql,postgres,sqlite,java,discord,figma,github,git,pycharm,vscode,idea)]()<br>
@@ -68,7 +68,7 @@ Java                     2 repos             ███░░░░░░░░�
  Last Updated on 21/07/2024 00:48:45 UTC
 <!--END_SECTION:waka-->
 
-## ` 🔎 ` Discord Profiel:
+## ` 🔎 ` Discord Profil:
 <a href="https://discord.com/users/753974250968186901"><img src="https://lanyard.cnrad.dev/api/753974250968186901"><p/>
 
 <p align="right">
