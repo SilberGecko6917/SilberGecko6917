@@ -12,4 +12,4 @@
 
 <p align="right">
 
-<img align="center" src="https://komarev .com/ghpvc/?username=SilberGecko6917&label= Profile%20views&color=0e75b6&style=flat" alt="Profiel views"/></p>
+<img align="center" src="https://komarev.com/ghpvc/?username=SilberGecko6917&label= Profile%20views&color=0e75b6&style=flat" alt="Profiel views"/></p>
