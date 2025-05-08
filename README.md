@@ -5,7 +5,8 @@
 - 📝 Ich programmiere gerne Discord Bots
 
 ## ` 🛠️ ` Programmiersprachen und Tools:
-[![Skills](https://skillicons.dev/icons?i=py,html,css,mysql,postgres,sqlite,java,discord,figma,github,git,pycharm,vscode,idea)]()<br>
+[![Skills](https://skillicons.dev/icons?i=py,html,css,ts,js,java,mysql,postgres,sqlite)]()<br>
+[![Tools](https://skillicons.dev/icons?i=discord,figma,github,git,pycharm,vscode,idea)]()
 
 ## ` 🔎 ` Discord Profil:
 <a href="https://discord.com/users/753974250968186901"><img src="https://lanyard.cnrad.dev/api/753974250968186901"><p/>
