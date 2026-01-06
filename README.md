@@ -2,10 +2,10 @@
 
 ## ` 📌 ` Über mich:
 - 📍 Ich komme aus Deutschland
-- 📝 Ich programmiere gerne Discord Bots
+- 📝 Ich programmiere gerne Discord Bots und anderes Cooles Zeug
 
 ## ` 🛠️ ` Programmiersprachen und Tools:
-[![Skills](https://skillicons.dev/icons?i=py,html,css,ts,js,java,mysql,postgres,sqlite)]()<br>
+[![Skills](https://skillicons.dev/icons?i=py,html,css,ts,js,java,kotlin,mysql,postgres,sqlite)]()<br>
 [![Tools](https://skillicons.dev/icons?i=discord,figma,github,git,pycharm,vscode,idea)]()
 
 ## ` 🔎 ` Discord Profil:
